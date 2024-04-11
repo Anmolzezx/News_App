@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395021494123",
+    "project_id": "news-app-e044b",
+    "storage_bucket": "news-app-e044b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395021494123:android:3fff0f999970bb156ece2e",
+        "android_client_info": {
+          "package_name": "com.techmania.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgNQXSV4dkWB9D7Tn1lN_biq2d5Jqib7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
