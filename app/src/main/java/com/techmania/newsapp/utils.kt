@@ -6,7 +6,7 @@ import java.util.Locale
 
 class utils {
     companion object{
-        const val API_KEY = "e4c09452fe5345ffb62076295d0f1588"
+        const val API_KEY = "Api key"
         const val BASE_URL = "https://newsapi.org"
 
         fun DateFormat(oldstringDate: String?): String? {
